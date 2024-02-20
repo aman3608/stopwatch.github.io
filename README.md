@@ -1,4 +1,3 @@
-Overview
 Welcome to the Stopwatch Web App! This web application provides a simple yet effective tool for tracking elapsed time directly from your web browser.
 Whether you're timing a workout session, managing cooking durations, or monitoring meeting lengths, this app offers convenient timing functionality accessible from any device with a web browser.
 
